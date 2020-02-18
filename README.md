@@ -3,7 +3,7 @@
 
 
 # Time Series Forecasting for Algorithmic Trading
-## by Multi Step Recurrent Neural Network LSTM Model.
+## with Multi Step Recurrent Neural Network LSTM Model.
 
 
 Moving Average Convergence Divergence (MACD) generates a crossover signal for securities historic prices analysis. MACD is an indicator of momentum that results useful in showing that a reversal on a securities price has occurred. By studying the relationship between two moving averages calculated with different periods, one "slow" and one "fast", we can assess when an upward on downward trend in well on the way. This is by no means a future estimation since all the information used to calculate the estimator is past prices, but it helps to smooth out the price movements by doing some "depuration" of the noise in the time series. The signal that a reversal has occurred is when the graph of the slow and fast Exponential Moving Averages cross. Sometimes this is called Crossover signal.
