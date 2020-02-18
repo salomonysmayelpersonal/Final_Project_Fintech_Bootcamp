@@ -20,4 +20,8 @@ The following is a plot of the historic prices for Devon Energy and the MACD wit
 
 IMAGE 
 
-Four signal points from the sequence 4-27-2018 to the present were studied.
+Four signal points from the sequence 4-27-2018 to the present were studied. on the following dataframes we can see were the 1 entry/exit point ws generated. the values shown on these dataframes are precicely the ones to be forecasted by the model.
+
+IMAGE OF DATAFRAMES WITH SIGNALS
+
+
