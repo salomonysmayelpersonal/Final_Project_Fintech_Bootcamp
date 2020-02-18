@@ -1,9 +1,8 @@
 # Final_Project_Fintech_Bootcamp
+## by Salomón Ysmáyel
 
-## Salomon Ysmáyel
 
 # Time Series Forecasting for Algorithmic Trading
-
 ## by Multi Step Recurrent Neural Network LSTM Model.
 
 
